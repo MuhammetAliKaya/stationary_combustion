@@ -1,6 +1,6 @@
 # STATIONARY COMBUSTION
 
-## What can we do with thid project?
+## What can we do with thiS project?
 We use this project for greenhouse gas calculations.
 
 ## Features
