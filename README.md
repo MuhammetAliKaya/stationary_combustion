@@ -7,6 +7,7 @@ We use this project for greenhouse gas calculations.
 - Single Page Application 
 - Notifications
 - Tests
+- Seeder
 - Ease of Use
 
 ## Tech Stack
@@ -34,6 +35,8 @@ PHP
 ## Images
 ![Input area](/assets/GHGP1.PNG)
 ![Datatable](/assets/GHGP2.PNG)
+![Tests](/assets/Tests.PNG)
+![Seeder](/assets/seeder.PNG)
 
 
 ## Contact
