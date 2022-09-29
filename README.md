@@ -32,8 +32,8 @@ PHP
 - Go to **http://localhost:8000/**
 
 ## Images
-![Input area](/assets/GHGP1.png)
-![Datatable](/assets/GHGP2.png)
+![Input area](/assets/GHGP1.PNG)
+![Datatable](/assets/GHGP2.PNG)
 
 
 ## Contact
